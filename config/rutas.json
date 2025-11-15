@@ -1,0 +1,10 @@
+{
+  "/": {
+    "controller": "MainController",
+    "action": "main"
+  },
+  "/customers": {
+    "controller": "ClientRepository",
+    "action": "list"
+  }
+}
